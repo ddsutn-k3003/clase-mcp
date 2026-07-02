@@ -31,3 +31,33 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### macOS ###
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+
+### Logs ###
+*.log
+logs/
+
+### OS ###
+Thumbs.db
+
+### Env ###
+.env
+.env.*
+
+### Maven ###
+.mvn/timing.properties
+
+### IntelliJ ###
+out/
+
+### Java ###
+*.class
